@@ -123,6 +123,4 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-## Reproducibility note
 
-The code is written to fail loudly when required monthly fields are absent rather than silently coercing annual data into monthly analyses.
