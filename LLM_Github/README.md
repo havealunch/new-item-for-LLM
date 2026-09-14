@@ -1,6 +1,3 @@
-# Large language models reshape how psychological distress is expressed and managed across social contexts
-
-Reproducibility code for the manuscript.
 
 ## Scope
 
@@ -20,7 +17,6 @@ This repository contains two kinds of code:
 
 2. **Figure-reproduction code** that reads the deposited Figure 1–5 source-data workbooks and rebuilds the principal statistical panels.
 
-The data-collection and NLP folders are provided as **transparent workflow templates** reflecting the documented post-level schema. They should not be interpreted as exact historical reconstructions of platform API endpoints or an NLP model unless the exact original API/model configuration is supplied.
 
 ## Expected data files
 
